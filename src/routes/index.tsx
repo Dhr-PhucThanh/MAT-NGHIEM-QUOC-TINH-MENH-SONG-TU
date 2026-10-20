@@ -37,7 +37,9 @@ function Home() {
       <header className="no-print sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur">
         <div className="mx-auto flex max-w-5xl items-center justify-between gap-4 px-4 py-3">
           <a href="#dau" className="font-serif text-lg font-medium tracking-tight">
-            Khuê Chỉ
+            <span className="block max-w-[14rem] font-serif text-[11px] leading-snug font-medium tracking-wide sm:max-w-sm md:max-w-lg md:text-sm">
+              MẬT NGHIÊM QUỐC – TÍNH MỆNH SONG TU – PHÁP MỞ SÁU NÚT
+            </span>
           </a>
           <nav className="hidden gap-1 md:flex">
             {nav.map((item) => (
@@ -77,8 +79,8 @@ function Home() {
           <p className="text-sm font-medium tracking-wide text-cinnabar uppercase">
             Tính mệnh song tu
           </p>
-          <h1 className="mt-3 font-serif text-4xl leading-tight font-medium md:text-5xl">
-            Quy trình thực hành Khuê Chỉ và mở sáu nút
+          <h1 className="mt-3 font-serif text-3xl leading-tight font-medium md:text-5xl">
+            MẬT NGHIÊM QUỐC – TÍNH MỆNH SONG TU – PHÁP MỞ SÁU NÚT
           </h1>
           <p className="mt-5 max-w-2xl text-lg text-muted">
             Outline từ đệ nhất đến đệ cửu tiết của{" "}
