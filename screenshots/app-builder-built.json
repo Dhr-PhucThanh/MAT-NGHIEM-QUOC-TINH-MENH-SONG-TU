@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Khuê Chỉ — quy trình thực hành",
+      "hasCanvas": false,
+      "bodyTextLen": 4927,
+      "bodyTextHash": "32e0c1420e1e0b493b6e73e3b5f2af1d92afa42fdf7340ebc32022abe1726200",
+      "bodyTextPrefix": "Khuê Chỉ Khai quang Chín tiết Mười hai bước Giản đồ Một ngày In ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Khuê Chỉ — quy trình thực hành",
+      "hasCanvas": false,
+      "bodyTextLen": 4927,
+      "bodyTextHash": "3a1d288da9e17a72003212fd4e611d08427a148f73db6d8323d6119b2d8e11c3",
+      "bodyTextPrefix": "Khuê Chỉ In / PDF Khai quang Chín tiết Mười hai bước Giản đồ Một",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
